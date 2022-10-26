@@ -20,6 +20,8 @@ function vowelOrConsonant(x)
         }
     }
 
+    console.log("Malay Pathname", pathname);
+
 vowelOrConsonant(str);
 
 // fs.unlinkSync(pathname + '/vowel.txt');
